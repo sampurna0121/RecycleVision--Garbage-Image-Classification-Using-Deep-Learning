@@ -42,7 +42,7 @@ Confusion Matrix: Shows clear class separation
 
 🚀 Run Locally
 # Clone repo
-git clone https://github.com/sampurna0121/RecycleVision.git
+git clone https://github.com/sampurna0121/RecycleVision--Garbage-Image-Classification-Using-Deep-Learning
 cd RecycleVision
 
 # Install dependencies
