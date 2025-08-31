@@ -40,16 +40,16 @@ Metrics: Balanced Precision, Recall, and F1-Score
 
 Confusion Matrix: Shows clear class separation
 
-🚀 Run Locally
-# Clone repo
-git clone https://github.com/sampurna0121/RecycleVision--Garbage-Image-Classification-Using-Deep-Learning
+## ▶️ Run Locally
+```bash
+git clone https://github.com/<your-username>/RecycleVision.git
 cd RecycleVision
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run Streamlit app
-streamlit run garbage.py
+streamlit run RecycleVision.py
 
 
 📌 Future Scope
@@ -63,4 +63,3 @@ Multilingual support in Streamlit
 👩‍💻 Author
 
 Sampurna Sharma
-LinkedIn
